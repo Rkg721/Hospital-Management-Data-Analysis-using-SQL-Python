@@ -69,7 +69,7 @@ Enhance Patient Experience → Bring down first appointment wait time from 142 d
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/Hospital_Management_Analysis.git
+git hub -  (https://github.com/Rkg721/Hospital-Management-Data-Analysis-using-SQL-Python)
 cd Hospital_Management_Analysis
 
 
